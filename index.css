@@ -1,13 +1,14 @@
-.info{
+.info, h1, h6, ol{
     text-align: center;
-    font-size: 25px
+}
+.info{
+  font-size:25px;
 }
 html{
   background-color: #f0802b;
 }
 h1{
   font-size: 35px;
-  text-align: center
 }
 img{
   margin-left: auto;
